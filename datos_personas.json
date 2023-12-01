@@ -1,0 +1,5 @@
+[
+    {"nombre": "Alfonso", "edad": 30, "genero": "Masculino", "ocupacion": "Ingeniero"},
+    {"nombre": "Gaby", "edad": 31, "genero": "Femenino", "ocupacion": "Estudiante"},
+    {"nombre": "Ivan", "edad": 32, "genero": "Masculino", "ocupacion": "Estudiante"}
+]
